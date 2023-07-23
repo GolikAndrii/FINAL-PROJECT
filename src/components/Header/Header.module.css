@@ -1,0 +1,8 @@
+.navbar-my{
+    height: 100px;
+}
+.contact-button{
+    background-color: var(--terracotta);
+    color: #ffffff;
+    padding: 15px 30px!important;
+}

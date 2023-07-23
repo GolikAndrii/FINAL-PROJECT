@@ -1,0 +1,13 @@
+@import "components/Header/Header.module.css";
+
+:root{
+    --yellow: #d3a863;
+    --terracotta: #c74817;
+    --text-color: #5b5858;
+    --bg-color: #f7f3f0;
+    --bold-text: #131313;
+    --boredr-color: #545050;
+}
+body{
+    background-color: var(--bg-color);
+}
